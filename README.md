@@ -5,6 +5,7 @@ This repository contains a collection of beginner-friendly Python projects. Each
 ## Projects
 - **Dice Rolling Game**: A game to roll one or more dice and track the results.
 - **Number Guessing Game**: A game where you guess a randomly generated number within a range.
+- **QR Code Generator**: A simply Program that get your data(text or url) and generate QR Code.
 - **Rock Paper Scissors Game**: A classic two-player game of Rock-Paper-Scissors.
 
 ## How to Run a Project
